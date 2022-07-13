@@ -1,0 +1,11 @@
+{
+  "name": "add_filename_to_txt",
+  "version": "1.0.0",
+  "description": "A simple Node.js script to iterate over each text file in a folder and add the filename as the first line in that file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Braydon Coyer",
+  "license": "ISC"
+}
